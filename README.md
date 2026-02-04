@@ -12,12 +12,12 @@ Une mini-application Todo simple et moderne développée avec HTML, CSS et JavaS
 - HTML5
 - CSS3
 - JavaScript
-- IA pour la génération du code
+- CHATGPT
 
 ## 🌍 Démo en ligne
-👉 https://TON_PSEUDO.github.io/todo-app/
+👉 https://vellybox.github.io/TODO-1/
 
 ## 📦 Installation
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/TON_PSEUDO/todo-app.git
+git clone https://vellybox.github.io/TODO-1/
